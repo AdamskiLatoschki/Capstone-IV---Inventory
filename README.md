@@ -1,10 +1,12 @@
 ﻿The project name: 'Inventory'
 
-This program store data on file which contains shoes products including details like product code, price, country of origin or quantity available in stock. User can print all products from inventory with all details. User can also check the highest quantity product and put it on sale or lowest quantity product and re stock it by adding new available quantity of this product. User can also add a new product to stock.
+This program store data on file which contains shoes products including details like product code, price, country of origin or quantity available in stock. 
+User can print all products from inventory with all details. User can also check the highest quantity product and put it on sale or lowest quantity product and re stock it by adding new available quantity of this product. Also a new product can be added to stock.
 <br><br><br>
-Languages and tools used: Python + PyCharm
+Languages and tools used: Python + PyCharm + TXT file
 <br><br><br>
 Please see below screenshots and instruction how to use the program.
+All data is read and written to/from txt file.
 <br><br>
 *Menu - With following options:
 <img src="https://github.com/AdamskiLatoschki/Capstone-IV---Inventory/blob/master/Instruction%20pictures/Inventory%20-%20Menu.JPG" />
